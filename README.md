@@ -11,4 +11,4 @@ Multi-class anomaly labels for WiRoRa are [here]().
 
 ## Model checkpoints
 
-The two main neural models can be found [here](https://zenodo.org/records/18937969).
+The main neural models can be found [here](https://zenodo.org/records/18937969).
