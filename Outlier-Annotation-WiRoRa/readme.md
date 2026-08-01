@@ -1,2 +1,2 @@
-Annotation results: inlier/outlier and category of outlier<br>
-List of radargrams/filenames as reference index
+# Outlier Annotation
+Out of the 1200 WiRoRa radargrams 318 are considered anomalies; in the CSV-file their WiRoRa-ID is listed alongside a human-annotated label *reflection* or *trigger* or *slow*.
