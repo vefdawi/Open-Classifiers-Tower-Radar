@@ -5,7 +5,7 @@ Data and code from the paper on public classifiers for mast-bound radar-based re
 
 A code snippet to illustrate the numerical hypothesis testing can be found [here](./Kolmogorov-Smirnov-Statistic-Autoencoder-Neck/).
 
-## WiRoRa
+## Datasets
 
 Although its authors did not give it that particular name, the field-measurement dataset was later dubbed WiRoRa (**Wi**nd-turbine **Ro**tor-blade **Ra**dargrams) and can be obtained [here](https://zenodo.org/records/11483931).
 
@@ -13,9 +13,9 @@ The related Simulated WiRoRa (SiWiRoRa) dataset is deposited [here](https://zeno
 
 Multi-class anomaly labels for WiRoRa are [here](./Outlier-Annotation-WiRoRa/).
 
-## Contour fitting
-
 To retrieve on-the-fly orientation angles from radargrams, ellipse estimation has been tested [here](./Fitzgibbon-Ellipse-Fitting-Yaw/).
+
+Further explanation for human-like pairwise image ranking are located [here](./Human-Bradley-Terry-Yaw-Ranking/).
 
 ## Model checkpoints
 
