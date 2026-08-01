@@ -2,7 +2,7 @@
 
 Complementing the human Bradley-Terry-style annotation, large frontier vision-language models have been utilized in the same manner. Here, radagrams have been presented in the following fashion:
 
-![Example radargram comparison](https://raw.githubusercontent.com/vefdawi/Open-Classifiers-Tower-Radar/blob/main/Human-Bradley-Terry-Yaw-Ranking/VLM_Upscaled_Comparison_Example.png)
+<img src="[path/to/image.png](https://raw.githubusercontent.com/vefdawi/Open-Classifiers-Tower-Radar/main/Human-Bradley-Terry-Yaw-Ranking/VLM_Upscaled_Comparison_Example.png)" alt="Example radargram comparison" width="300">
 
 And subsequent VLM instructions read:
 
