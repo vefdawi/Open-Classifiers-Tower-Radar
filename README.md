@@ -7,7 +7,7 @@ Although its authors did not give it that particular name, the field-measurement
 
 The related Simulated WiRoRa (SiWiRoRa) dataset is deposited [here](https://zenodo.org/records/13318595).
 
-Multi-class anomaly labels for WiRoRa are [here]().
+Multi-class anomaly labels for WiRoRa are [here](./Outlier-Annotation-WiRoRa/).
 
 ## Model checkpoints
 
