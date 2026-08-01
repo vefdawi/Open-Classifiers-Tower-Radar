@@ -13,6 +13,10 @@ The related Simulated WiRoRa (SiWiRoRa) dataset is deposited [here](https://zeno
 
 Multi-class anomaly labels for WiRoRa are [here](./Outlier-Annotation-WiRoRa/).
 
+## Contour fitting
+
+To retrieve on-the-fly orientation angles from radargrams, ellipse estimation has been tested [here](./Fitzgibbon-Ellipse-Fitting-Yaw/).
+
 ## Model checkpoints
 
 The main neural models can be found [here](https://zenodo.org/records/18937969).
