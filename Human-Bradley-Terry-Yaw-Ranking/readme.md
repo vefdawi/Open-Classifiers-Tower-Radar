@@ -13,4 +13,5 @@ And subsequent VLM instructions read:
 `After your reasoning, end your response with exactly one of these two lines and nothing else...`
 
 `ANSWER: A`
+
 `ANSWER: B`
